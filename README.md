@@ -1,6 +1,6 @@
 # BlueSuffix
 
-This repo contains the [project website](https://github.com/Vinsonzyh/BlueSuffix-website.github.io/) source code for paper [*BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks*](https://openreview.net/pdf?id=wwVGZRnAYG).
+This repo contains the [project website](https://vinsonzyh.github.io/BlueSuffix-website.github.io/) source code for paper [*BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks*](https://openreview.net/pdf?id=wwVGZRnAYG).
 
 If you find our work useful, please cite:
 ```
